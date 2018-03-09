@@ -1,16 +1,20 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
+  "name": "swipe",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": "Andreas Ohlsson",
   "dependencies": {
     "expo": "^24.0.0",
     "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz"
   },
-  "name": "swipe",
-  "version": "0.0.0",
-  "description": "Hello Expo!",
-  "author": "Andreas Ohlsson",
   "devDependencies": {
-    "react-native-scripts": "^1.11.1"
+    "babel-jest": "^22.4.1",
+    "babel-preset-react-native": "^4.0.0",
+    "eslint": "^4.18.2",
+    "eslint-config-rallycoding": "^3.2.0",
+    "eslint-plugin-react": "^7.7.0"
   }
 }
