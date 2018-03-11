@@ -9,6 +9,8 @@
     "semi": 0,
     "react/require-extension": "off",
     "padded-blocks": "off",
-    "eol-last": "off"
+    "eol-last": "off",
+    "no-empty": "off",
+    "no-unused-expressions": "off"
   }
 }
